@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nayan Verma
-- 👀 I’m interested in Machine Learning,Deep Learning,Natual Language Processing, Data Science, Android development, Web Development
+- 👀 I’m interested in Machine Learning,Deep Learning,Natual Language Processing, Data Science, Mobile Application development, Web Development
 - 📫 To reach me drop an email at : vnayan94@gmail.com
 
 <!---
